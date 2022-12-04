@@ -157,4 +157,4 @@ for i in result:
 		follows[i].pop(follows[i].index("e"))
 	follows[i]+=["$"]
 	print(f'Follow({i}):',follows[i])
-Footer
+
